@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/thedrewen/discord-ollama-bot.git"
   },
-  "license": "GPL-3.0",
+  "license": "MIT",
   "author": "TheDreWen",
   "type": "commonjs",
   "main": "src/index.ts",
